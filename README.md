@@ -3,7 +3,7 @@
 <h2> Development Projects:</h2>
 
 - <b>Active Directory Lab using Pfsense</b>
-  - [Praciting DS & Algos in Python](https://github.com/yamanb2/Active-Directory-Lab/blob/main/README.md)
+  - [Active Directory Lab with Pfsense](https://github.com/yamanb2/Active-Directory-Lab/blob/main/README.md)
 
 
 <h2>Certificates</h2>

@@ -2,8 +2,8 @@
 
 <h2> Development Projects:</h2>
 
-- <b>Active Directory Lab using Pfsense</b>
-  - [Active Directory Lab with Pfsense](https://github.com/yamanb2/Active-Directory-Lab/blob/main/README.md)
+- <b>Active Directory Lab: Setting up Pfsense</b>
+  - [Active Directory Lab: Setting up Pfsense](https://github.com/yamanb2/Active-Directory-Lab/blob/main/README.md)
 - <b>Active Directory Lab: Setting up users</b>
   - [Active Directory Lab: Setting up users](https://github.com/yamanb2/Active-Directory-Lab-Setting-up-users)
 
